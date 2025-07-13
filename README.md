@@ -24,6 +24,8 @@
   An AI-based game recommendation system that provides personalized recommendations using data from over 170,000 Steam games.  
   Implemented a hybrid RAG (Retrieval-Augmented Generation) structure combining vector embedding with Google Gemini AI.
 
+- **Live Service:** [![The Gamer's Compass](https://img.shields.io/badge/The%20Gamer's%20Compass-000000?style=for-the-badge&logo=compass&logoColor=white)](http://team8889.xyz/)
+
 - **Key Role & Tech Stack**
 
 | Backend | Frontend | AI/ML |
